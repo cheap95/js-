@@ -1,4 +1,4 @@
-const quiz = [
+const quiz = [ 
     {
       question: '世界本塁打記録を持つ人物は誰だ？',
       answers: [
